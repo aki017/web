@@ -1,0 +1,8 @@
+.list-group-item.about-social {
+  background: transparent;
+  color: white;
+}
+
+.list-group-item.about-social > span{
+  font-size: 3em;
+}
